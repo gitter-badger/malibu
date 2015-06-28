@@ -1,6 +1,8 @@
 maiome's library of utilities
 =============================
 
+[![Join the chat at https://gitter.im/maiome-development/malibu](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/maiome-development/malibu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Build status: https://phabricator.maio.me/harbormaster/query/M66HrtGGrY6u/
 
 This is a library of semi-useful and hopefully reusable utilities used within a few
